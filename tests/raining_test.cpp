@@ -4,7 +4,3 @@
 #include <catch2/generators/catch_generators_range.hpp>
 
 #include "../src/raining.hpp"
-
-TEST_CASE( "it returns Hello World" ) {
-    REQUIRE( hello() == "Hello World!" );
-}
